@@ -7,6 +7,7 @@ This is a simple web application for summarizing text using different styles and
 
 ![App Screenshot]("C:\Users\mahes\Pictures\{9CDBBE9D-229D-421F-8460-2952B8F26C78}.png")
 
+<img width="845" alt="Image" src="https://github.com/user-attachments/assets/3f97734c-94a0-4745-9246-245d73f51bd7" />
 
 ## Installation
 
