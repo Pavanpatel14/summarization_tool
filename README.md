@@ -10,11 +10,6 @@ This is a simple web application for summarizing text using different styles and
 
 ## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
 ```
    1.Clone the repository:
     
