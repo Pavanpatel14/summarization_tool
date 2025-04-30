@@ -1,6 +1,7 @@
 # Text Summarization Tool
 
 This is a simple web application for summarizing text using different styles and summary sizes. The app is built using [Streamlit](https://streamlit.io/), making it easy to use and deploy.
+![Screenshot]("C:\Users\mahes\Pictures\{9CDBBE9D-229D-421F-8460-2952B8F26C78}.png")
 
 ## Features
 
