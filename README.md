@@ -23,9 +23,9 @@ The purpose of this tool is to assist users—such as students, professionals, a
 
    1.Clone the repository:
     
-    git clone https://github.com/your-username/text-summarization-tool.git
+    git clone https://github.com/Pavanpatel14/text_summarization_tool
     
-    cd text-summarization-tool
+    
 
   2.Install the required dependencies:
  
@@ -66,3 +66,12 @@ The purpose of this tool is to assist users—such as students, professionals, a
  # OUTPUT
 
    <img width="845" alt="output_screenshot" src="https://github.com/user-attachments/assets/bd23ea1a-8c9c-4a33-9338-f528e2725909" />
+
+
+   ## 🌐 Live Demo
+
+You can try the app here:
+
+👉 [Click to Open the Deployed App](https://text-summarization-tool14.streamlit.app/)
+
+
