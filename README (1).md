@@ -1,18 +1,22 @@
 
-# Text Summarization Tool
+# TEXT SUMMARIZATION TOOL
 
-This is a simple web application for summarizing text using different styles and summary sizes. The app is built using [Streamlit](https://streamlit.io/), making it easy to use and deploy
+*COMPANY*: CODETECH IT SOLUTIONS
 
-## Screenshots
+*NAME*: PATEL PAVAN
 
-![App Screenshot]
+*INTERN ID*: CODF331
 
-<img width="845" alt="output_screenshot" src="https://github.com/user-attachments/assets/bd23ea1a-8c9c-4a33-9338-f528e2725909" />
+*DOMAIN*: FRONT END DEVELOPMENT
 
-## Installation
+*DURATION*: 4-WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 
+# DESCRIPTION
 
+  ## Installation
 
    1.Clone the repository:
     
@@ -20,11 +24,11 @@ This is a simple web application for summarizing text using different styles and
     
     cd text-summarization-tool
 
-2.Install the required dependencies:
+  2.Install the required dependencies:
  
      
     pip install streamlit 
-## Features
+  ## Features
 
 
 
@@ -54,4 +58,9 @@ This is a simple web application for summarizing text using different styles and
 
 
      http://localhost:8501.
+
+
+ # OUTPUT
+
+   <img width="845" alt="output_screenshot" src="https://github.com/user-attachments/assets/bd23ea1a-8c9c-4a33-9338-f528e2725909" />
 
