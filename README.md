@@ -15,6 +15,10 @@
 
 # DESCRIPTION
 
+  The Text Summarization Tool is a real-time web application built using Python, Streamlit, and Hugging Face Transformers that enables users to condense long paragraphs or documents into concise summaries. This tool leverages advanced Natural Language Processing (NLP) techniques and pre-trained transformer models like BART to generate meaningful and accurate abstractive summaries.
+
+The purpose of this tool is to assist users—such as students, professionals, and researchers—in quickly understanding lengthy content by providing a brief yet informative overview. The application ensures ease of use with a clean interface where users can paste input text, click a button, and instantly get the summary.
+
   ## Installation
 
    1.Clone the repository:
